@@ -16,7 +16,7 @@ Please make sure to update tests as appropriate.
 
 ## How to apply for staff
 
-Join the discord server to get staff on my server!(That will help a lot)
+Join the discord server to get staff on my server!(That will help a lot)The Discord link(https://discord.gg/ZCNPaspxTF)
 
 ## Nah
 [MIT](https://choosealicense.com/licenses/mit/)
